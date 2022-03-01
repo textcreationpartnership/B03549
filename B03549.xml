@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crumbs of comfort: or, Grace in its various degrees, and yet oneness in kind, Mat. 14. 27. By Mr. William Guthrie.</title>
+            <author>Guthrie, William, 1620-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03549</idno>
+            <idno type="STC">Wing G2275A</idno>
+            <idno type="STC">ESTC R177752</idno>
+            <idno type="EEBO-CITATION">51617635</idno>
+            <idno type="OCLC">ocm 51617635</idno>
+            <idno type="VID">175249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175249)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Crumbs of comfort: or, Grace in its various degrees, and yet oneness in kind, Mat. 14. 27. By Mr. William Guthrie.</title>
+                  <author>Guthrie, William, 1620-1665.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alexander Kennedy,</publisher>
+                  <pubPlace>[Scotland?] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Suggested country of publication from Wing.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XIV, 27. --  Sermons.</term>
+               <term>Grace (Theology) --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175249:1" rendition="simple:additions"/>
+            <head>
+               <hi>CR<g ref="char:V">Ʋ</g>MBS of COMFORT:</hi> OR, GRACE IN ITS Various Degrees, and yet Oneneſs in Kind, <hi>Mat.</hi> 14.27.</head>
+            <byline>By Mr. <hi>WILLIAM GUTHRIE.</hi>
+            </byline>
+            <p>THE Doctrine is thus: <hi>Although there is gradual difference in many things in Gods houſe, yet there is no eſſential difference among theſe things:</hi> This no man does acknowledge. There was a Feaſt at the Table, that people may partake of; and there is Crumbs that are not eſſentially different from theſe great Loaves; there is ſome that ſits at his Elbow at the Table; and there are others that are but Dogs in their eſteem, and yet have a true intereſt, but creep in among the bearns, and eat the Crumbs that fall from the Table;
+<pb n="2" facs="tcp:175249:2"/>yet that is eſſential bread, as well as the great loaves. 1. What be thoſe things of God wherein there is ſuch gradual difference? and wherein doth it appear? 2. We ſhall ſhew, though there be a gradual difference, yet there is no eſſential difference. 3. Why the Lord hath reſolv'd to keep ſuch a difference, had it not been much matter, if his Servants had been all one of the ſame ſize.</p>
+            <p>The firſt thing wherein this appears, there is a differ<g ref="char:EOLhyphen"/>ence among the peoples tranſgreſſions; ſo there is a gradual difference among them in the Law-work, which prepares Chriſts work throughout the Soul: There is ſome that hath ſuch Convictions, as they can ſcarcely ſay, that they have the impreſſion of them upon their heart; and there are ſome others, who are kept many days under the ſpirit of bondage, and ſo weighty up<g ref="char:EOLhyphen"/>on them, as they were going to hang themſelves, or ſtab themſelves, yea ſome put ſtone-blind with the terror of conſcience; it hath been the mercy of ſome, that they have not been put upon that extremity. Then there is a difference in the Lords out-giving of ſaving-grace, yet keeping that rule as they take up, God to be God, and Sin to be ſin; yet O, how far are they from that ſagacity of Grace and Wiſdom that others par<g ref="char:EOLhyphen"/>take of! the Lord hath given to ſome to look to Chriſt, and they dare do no more; but he giveth to others, to receive him in open arms, and he makes out all his re<g ref="char:EOLhyphen"/>ceipts with a different proportion, yet no ground of quarrelling: and ſo it is in all the reſt of the Graces; ſome dare not venture upon ſuffering, as others; and ſome gets ſtrength in the temptation to ſtand.</p>
+            <p n="3">
+               <pb n="3" facs="tcp:175249:2"/> 3. There is a gradual difference in the manfeſtation of his ſpecial communication of his favour and face, the blinks of Gods face: There was ſome got but ſuch a taſte, as ſcarce did they think any thing at all; others have got Wine and Apples, and ſo there is ſome call'd <hi>babes,</hi> others <hi>young men</hi> for ſtrength, others Fathers for experience: Then there is a gradual difference in pro<g ref="char:EOLhyphen"/>miſes, made to all theſe forementioned ſizes, which agrees to the perſon, as an inſtance to them that hungers, and ſo are differently moulded according to the Pa<g ref="char:EOLhyphen"/>rity.</p>
+            <p>The ſecond thing is to let you ſee, that there is no eſſential difference amongſt them, conſidering the true nature of things themſelves, that we have ſpoken of, to partake in the meaneſt ſize; there is no eſſential dif<g ref="char:EOLhyphen"/>ference from thoſe who partake in the leaſt, or greateſt ſize. Firſt in the Law-work, which makes way through<g ref="char:EOLhyphen"/>out the ſouls of people for Chriſt; ſome has gotten but little of that work, yet ſuch has walk'd afterward; that they durſt not ſay, but that they had the grace of God, as well as they that have had much of it; for in both cauſes there has been a belief of the curſe, and propriation of the curſe of the Law to themſelves for ſin; then the party from the apprehenſion of its miſery being paſt hope of all relief from its ſelf, and ſuch a ſelf-diſcovery, as emptying it ſelf as full room has been for Chriſt; and ſo its call'd <hi>the like precious faith,</hi> but <hi>the like ſtrong;</hi> ſo both kind of perſons, there is an im<g ref="char:EOLhyphen"/>propriation of the fulneſs of Chriſt to the heart joyn<g ref="char:EOLhyphen"/>ing with it, for therein ſtands the true eſſence of faith, when the Creator applies Chriſt in the promiſes to its cauſe, although it knows not if it come ſpeed: If it be
+<pb n="4" facs="tcp:175249:3"/>ſo, why do we carp, that we have not ſo much faith as others? We have the Eſſentials of Grace in like man<g ref="char:EOLhyphen"/>ner; there is no eſſential difference in the Grace of Love; for firſt, is there not that operating Love to put him above all the creatures with an invincible reſpect to him, that all the waters cannot quench; he keeps ſtill, in both cauſes, a regard of his commands upon the heart, upon which the Spirit of God has terminate the love of God, though ye have not that overcoming obe<g ref="char:EOLhyphen"/>dience to the Commands of God.</p>
+            <p>Then next in the Grace of Patience, there is a gra<g ref="char:EOLhyphen"/>dual difference, though no eſſential: And I know this troubles much the People of God, that they can be ſo far different from others in ſubmiſſion, yet dar'ſt not ſay that they have no grace; yet I will let you ſee, that it is not the meaneſt degree of patience, that they have given way to Chriſt throughout their ſoul, and that they have reſpect to his Commands, for that muſt take up the party, for their patience will not do, if that be not; if ye grant that, then ye muſt grant this alſo, that all the Graces of God are in them in habit: ſo here is a ſelf-judging, and cordial juſtifying of God, and deliberately ſubmits to him in their cold blood; and when their heart will not ſubmit, they appeal to God for it. Then hereby ye may apprehend, that there is no eſ<g ref="char:EOLhyphen"/>ſential difference among the Works of Grace, becauſe the promiſes are equally caſt out to all degrees; ſo pro<g ref="char:EOLhyphen"/>miſe is made, as well to him that looks, as to him that eats: this will hold it out, that there is as good account of the meaneſt degree of gracious receipts, and of the meaneſt ſize in difficult caſes, and in the day of ſuffer<g ref="char:EOLhyphen"/>ing and teſtifying for Chriſts intereſt, as of a people that
+<pb n="5" facs="tcp:175249:3"/>are of a greater uſe; and many times the weakeſt, that we ſcarcely expected any good account of at their death, hath a better confeſſion of Chriſt than the greateſt pro<g ref="char:EOLhyphen"/>feſſor; and the reaſon is, Chriſt has gotten his peny<g ref="char:EOLhyphen"/>worths of the man that was ſo noted for a profeſſor; but a poor body, that was never known, goes away to death, glorifying God to the refreſhing of all ſtanders by; then all theſe different degrees of Grace are the work of one and the ſame gracious Spirit, and works one and the ſame graces, and work alſo gracious ends, that ſays there is no difference eſſentially, though there be different adminiſtrations and manifeſtations, and is uniting to him, and ſo conforming, that all theſe graci<g ref="char:EOLhyphen"/>ous adminiſtrations carry on ſuch an end.</p>
+            <p>The next thing is, Why doth God keep a gradual difference? may not he keep a great ſtock of faith, pa<g ref="char:EOLhyphen"/>tience and love to keep his people comfortable, than to hold them after this manner? We indeed think ſo, but he, becauſe the Lord has reſolv'd to give out divers Ad<g ref="char:EOLhyphen"/>miniſtrations, of which himſelf is head; and he will have different members of his body, with which he will be ſerved with divers Adminiſtrations of the Spirit; he will have eyes, tongue, hands, yea love more than I do, yet I believe more than ye know.</p>
+            <p n="2">2ly, This gradual difference the Lord keep, that the ranſome may be ſtill in requeſt; for if we had gotten in our hand, we ſhould have loſt reſpect to the ranſome, the thought of our infirmities, and that we muſt come to Chriſt, makes him precious to us.</p>
+            <p n="3">3ly, He is pleaſed to keep this diverſity of admini<g ref="char:EOLhyphen"/>ſtration, becauſe earth cannot bear grace in its perfecti<g ref="char:EOLhyphen"/>on; therefore the Lord hath hewen it out in a ſmall
+<pb n="6" facs="tcp:175249:4"/>meaſure, for the Lord is reſolved to tranſplant all the trees of grace to <hi>Emanuel</hi>'s Land, where there is b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thing of the Holy Ghoſt; we would work no more if Grace were at its perfection.</p>
+            <p n="5">5ly, The Lord is pleaſed to do, becauſe he intends that there ſhall be a clear difference between heaven and earth; O how ſweet will Heaven, and Chriſt, and the fulneſs of joy at his right hand be to the ſoul that is ne<g ref="char:EOLhyphen"/>ver ſatiate! how ſweet will heaven be to him that never could get corruption mortified, but was trailed many a day up and down with it.</p>
+            <p>Infer. 1. Go not away then with an evil report of him, though ye find not theſe things in your ſelf, that others of his people has found; and I obteſt you to count Crumbs eſſential bread, though ye get no more at pre<g ref="char:EOLhyphen"/>ſent, make ſure of the true nature and being of Grace; make ſure, that ye have a reſpect to his Commands, tho ye cannot get further to any mark of grace. 2. Do not judge with a ſpirit of jealouſie, becauſe ye are not all of the ſame ſize; there is ſome below you in underſtand<g ref="char:EOLhyphen"/>ing the matters of God; that when it comes to the point, will be as particular in confeſſion of the truth as any. 5. Be not cenſorious, though any with many degrees ſhall fall into corruption. But then again, if he that has but grace in the third degree, come honourably through<g ref="char:EOLhyphen"/>out, not polluted with the temptation, how aggravating is thy ſin? who has received grace in the ſixth degree? But be it known to you, that it is not degrees of grace that holds up grace to fight with corruption and tempta<g ref="char:EOLhyphen"/>tion, with deſertion, but the Soveraignty that makes it ſtand; for if it were the degrees of grace that keep a man up, how comes it that he who has the lively exerciſe of
+<pb n="7" facs="tcp:175249:4"/>grace, he is almoſt overcome of a temptation, and foiled in an evil frame, and grace at under with him, that he is run down with corruption: Truly none can give a reaſon for it, but he who has ſet bound to the Sea, and ſaid, <hi>Hi<g ref="char:EOLhyphen"/>therto ſhalt thou come, and no further;</hi> hath ſet bounds to a mans corruptions, that ſuch a length it ſhall come, and no further; therefore liſten much to God and his Soveraignty, and very little to your own receipts of grace, yea in the higheſt degree that men do create, and that with influences of the ſpirit. 7. That the gradual degrees of grace and parts is not founded upon diſpro<g ref="char:EOLhyphen"/>portion of natural proprieties. 8. Grace runs in that channel, that moſt in forthcoming, where leaſt expected: and this becauſe they are come of an evil kind, and evil edification, and ſo few means of grace, and ſo little pro<g ref="char:EOLhyphen"/>feſſions; and yet all of theſe good ſymptoms of a choice Chriſtian. 9. For ground of encouragement, the Ma<g ref="char:EOLhyphen"/>ſters honour and glory, and our well-being is winded up, that is, our ſtanding ſtedfaſt in an evil time, and is the accompliſhment of all the greateſt promiſes in the word, ſince we have many ſweet clouds and ſhowers of prayers in behalf of thoſe who own the truths of God; and if we were not more beholden to other mens prayers than our own, we ſhould be in a poor caſe; but there will be forth<g ref="char:EOLhyphen"/>coming in many, beyond expectation, in reſpect of ſolid acknowledgment, and bearing witneſs to the truths of God in a declining time, when people, when great parts will fail: but there will be rich forthcoming in point of faith; it's eaſie believing, when no oppoſition; to call the Court, when none calls again; but thoſe who durſt never much ſay great things, they would do, will exceedingly tranſcend great lights in teſtimony-bearing. 10. There
+<pb n="8" facs="tcp:175249:5"/>will be forthcoming, in point of Charity to ſuffering worthy Miniſters, and others of his people in ſtrait for him: and I aſſure you, that this is not the leaſt piece of Religion. But 4. as the reaſon why God takes this way, becauſe it's moſt uſual, that way which we pitch on, and that perſon we eſteem and mean elect; the Lord truſts it, and it's a hundred to one and ever he proceed that road way. Now you that are great profeſſors in the Countrey, pray you deſire not tryals; people ſays, that they will do this, and that, and the other thing, when call'd to it: away with your Romances. 5. We have much hope of ſome peoples praiſe, faithfulneſs and ho<g ref="char:EOLhyphen"/>neſty, who have little or none of themſelves. Be not then upon no terms caſten to a diſpondency, when the matter comes to a choak, becauſe ye have nothing pro<g ref="char:EOLhyphen"/>miſing in you anſwerable thereto, for he gives out the expences immediately, when we are call'd to disburſe, and leaſt expecting it.</p>
+            <p>Laſtly, The eminent ſhining-profeſſors, let fear of ſhame, diſgrace, diſhonour to your ſelf and Maſter pro<g ref="char:EOLhyphen"/>mote you to be forthcoming for the Maſters praiſe, in word, thought and deed, and to be practical in patience, temperance, holineſs, and ſummarily make it all your work, how ye may be to his glory, who has taken ſo much pains upon you.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Alexander Kennedy.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
